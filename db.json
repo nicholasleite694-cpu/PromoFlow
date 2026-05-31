@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "email": "nicholasleite694@gmail.com",
+      "name": "Nicholas Leite",
+      "createdAt": "2026-05-20T15:02:36.656Z"
+    }
+  ],
+  "artistProfiles": [
+    {
+      "id": "fgv70an1m",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "artistName": "Nicholas Leite",
+      "bio": "Producer from Rio de Janeiro. Drawn inspiration from artists such as Beltran, ANOTR, MPH, all the way to music from 60s-80s. What drives me as a musician is the limitless possibility of the mix of rhythm and harmony, driving unspoken emotions out of people. I have been producing since 2023, and releasing singles as an independent artist since 2024.",
+      "genres": [
+        "Tech House",
+        "Deep House",
+        "Indie Dance"
+      ],
+      "targetTone": "Artistic & Deep",
+      "createdAt": "2026-05-20T14:38:38.875Z"
+    }
+  ],
+  "demos": [
+    {
+      "id": "demo_p4nzcv0ai",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "title": "Esse Calor",
+      "link": "https://soundcloud.com/user-211664717/esse-calor",
+      "description": "",
+      "mood": "Atmospheric",
+      "genre": "House",
+      "createdAt": "2026-05-20T14:45:06.852Z"
+    }
+  ],
+  "targets": [
+    {
+      "id": "target_1",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "name": "Liquid State A&R (Sony Music)",
+      "email": "ar@liquidstate.co",
+      "type": "label",
+      "details": "Focuses on electronic, dance and ambient-pop artists in Asia-Pacific markets.",
+      "createdAt": "2026-05-20T14:38:39.395Z"
+    },
+    {
+      "id": "target_2",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "name": "Selected. Curation Hub",
+      "email": "demos@selected-curation.de",
+      "type": "playlist",
+      "details": "Top electronic playlist curator. Prefers deep house, summer vibes, vocal synth-pop.",
+      "createdAt": "2026-05-20T14:38:39.395Z"
+    },
+    {
+      "id": "target_3",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "name": "The Sound You Need (Editorial)",
+      "email": "submissions@tsyn.co",
+      "type": "blog",
+      "details": "Legendary dynamic future-bass, indie-pop, and neo-soul curators. Values originality.",
+      "createdAt": "2026-05-20T14:38:39.395Z"
+    }
+  ],
+  "outreaches": [
+    {
+      "id": "outreach_gkvx7wnfg",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "demoId": "demo_p4nzcv0ai",
+      "targetId": "target_3",
+      "status": "draft",
+      "emailSubject": "DEMO Submission: Atmospheric Deep House | Rio Producer - \"Esse Calor\"",
+      "emailBody": "Hey The Sound You Need team,\n\nI’ve long admired how your curation champions sounds that refuse to fit into neat boxes, prioritizing pure vibe and originality over formulaic beats.\n\nMy latest track, \"Esse Calor,\" was born in Rio de Janeiro. It’s an atmospheric deep house cut that blends modern, driving rhythms with the nostalgic harmonic warmth of 70s Brazilian soul. I wanted to capture that unspoken, heavy summer emotion—something I feel aligns deeply with the soul-stirring, genre-fluid aesthetic you’ve built your legacy on.\n\nListen to \"Esse Calor\" here: https://soundcloud.com/user-211664717/esse-calor\n\nThanks for your time and ears,\n\n[Artist]",
+      "createdAt": "2026-05-20T14:45:32.729Z",
+      "gmailDraftId": "r6871402289608154897"
+    },
+    {
+      "id": "outreach_nz904fd7k",
+      "userId": "E42ZhuGRswfg03mBhHmnJiNdJtv2",
+      "demoId": "demo_p4nzcv0ai",
+      "targetId": "target_1",
+      "status": "draft",
+      "emailSubject": "DEMO Submission: Rio Producer - Esse Calor (Atmospheric Deep House)",
+      "emailBody": "Liquid State A&R team,\n\nI’ve been following how Liquid State bridges sophisticated electronic music with ambient-pop across APAC markets. There’s a specific, emotive depth in your catalog that resonates with my work. Born out of Rio de Janeiro, my new track \"Esse Calor\" is an atmospheric deep house cut that blends hypnotic, late-night grooves with the nostalgic warmth of 60s-80s rhythm.\n\nIt’s built to evoke unspoken emotions through a balance of deep-house weight and airy, indie-dance textures. I believe its global, atmospheric sound fits perfectly with Liquid State's vision.\n\nListen to \"Esse Calor\" here: https://soundcloud.com/user-211664717/esse-calor\n\nIn rhythm,\nRio Producer",
+      "createdAt": "2026-05-20T14:51:50.392Z",
+      "gmailDraftId": "r-17884815950648444"
+    }
+  ]
+}
